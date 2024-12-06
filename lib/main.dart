@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
                           ),
                           child: Center(
                               child:
-                              Text("FILMS",style: TextStyle(fontSize: 25,fontFamily: 'got',color: Colors.white),)
+                              Text("MOVIES",style: TextStyle(fontSize: 25,fontFamily: 'got',color: Colors.white),)
                           ),
                         ),
                       ],
